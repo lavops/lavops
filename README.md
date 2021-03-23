@@ -3,4 +3,4 @@
 [![Discord Bots](https://top.gg/api/widget/799392333677854751.svg)](https://top.gg/bot/799392333677854751)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/djordje-milicevic/)
-<img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" />
+<img src="https://komarev.com/ghpvc/?username=Lavops&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" />
