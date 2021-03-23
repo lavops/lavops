@@ -1,5 +1,5 @@
 ![Lavops's github stats](https://github-readme-stats.vercel.app/api?username=Lavops&theme=onedark&count_private=true&show_icons=true&include_all_commits=true)
-![Lavops's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavops&layout=compact&theme=onedark&langs_count=15)
+![Lavops's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavops&layout=compact&theme=onedark&langs_count=15&hide=php)
 
 [![Discord Bots](https://top.gg/api/widget/799392333677854751.svg)](https://top.gg/bot/799392333677854751)
 
